@@ -1,0 +1,56 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+//  write a program to read your name and concatenate with a student.
+// 	int num;
+// 	cin >> num;
+// 	cout << name + " a student";
+ 
+//  write a program to read an integer and add 2  and print.
+//  int num;
+// 	cin >> num;
+// 	int sum = num + 2;
+// 	cout << sum;
+
+//  write a program to read name, age, and roll no. and print it in a single line seperated by space.
+//  string name, rollno, num;
+//  cin >> name >> rollno >> num;
+//  cout << name <<" " << rollno << " " << num;
+
+//  write a program to read 3 integers and multiple it.
+//  int num1, num2, num3;
+//  cin >> num1 >> num2 >> num3;
+//  int mul = num1 * num2 * num3;
+//  cout << mul;
+
+//  write a program to read 3 space seperated integers and calculate the avg of first 2 integers and check whether this avg is greater then third integer, if yes print YES, else NO..
+
+//  int a, b, c;
+//  cin >> a >> b >> c;
+//  float avg = (a + b)/2.0;
+//  if (avg > c){
+//      cout << "YES";
+//  }
+//  else{
+//      cout << "NO";
+//  }
+
+// in phoneland a valid phone number consists of 5 digits with no leading zeroes. alex went to a store and purchased n items, where the cost of each item is y. determine whether the bollequivalent to avalid no. or not
+// int N, Y;
+// cin >> N >> Y;
+// int bill = N * Y;
+// if(bill>=10000){
+//     if(bill<= 99999){
+//     cout << "VALID";
+//     }
+//     else{
+//     cout<<"NOT VALID";
+//     }
+// }
+// else {
+//     cout << "NOT VALID";
+// }
+
+}
