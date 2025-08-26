@@ -53,4 +53,13 @@ int main() {
 //     cout << "NOT VALID";
 // }
 
+// string key;
+// getline(cin,key);
+// if (key.length()%2==0 && key.find("#") && key.find("&")){
+//     cout << "YES";
+// }
+// else {
+//     cout << "NO";
+// }
+
 }
