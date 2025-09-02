@@ -215,6 +215,24 @@ int main() {
 //     }
 // }
 
+int n;
+// std::cin >> n;
+
+//  	    int count1 = 0;
+//  	    int count2 = 0;
+//  	for(int i = 0; i < n; i++){
+//  	    int grade;
+//  	    string status;
+//  	    std::cin >> status;
+//  	    std::cin >> grade;
+//  	    if(grade > 75 && status == "PASS") {
+//  	        count1++;
+//  	    }if(grade < 50 && status == "FAIL") {
+//  	        count2++;
+//  	    }
+//  	}
+//  	    std::cout << count1 << " " << count2<< std::endl;
+//  	}
 
 
 }
